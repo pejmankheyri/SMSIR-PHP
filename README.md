@@ -7,13 +7,15 @@
 <a href="https://packagist.org/packages/pejmankheyri/smsir-php"><img src="https://img.shields.io/packagist/dt/pejmankheyri/smsir-php" alt="Total Downloads"></a>
   <a href="https://packagist.org/packages/pejmankheyri/smsir-php"><img src="https://poser.pugx.org/pejmankheyri/smsir-php/d/monthly" alt="Monthly Downloads"></a>
 <a href="https://packagist.org/packages/pejmankheyri/smsir-php"><img src="https://img.shields.io/github/license/pejmankheyri/smsir-php" alt="License"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpejmankheyri%2FSMSIR-PHP?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpejmankheyri%2FSMSIR-PHP.svg?type=shield"/></a>
+
 </p>
 <div dir="rtl">
 
 # ارسال پیامک با استفاده از کلاس های PHP برای تمامی حالت های ممکن پنل sms.ir
 
 نمونه کد های php برای استفاده از تمامی قابلیت های پنل ارسال پیامک sms.ir
+
+نسخه 1.0.0
 
 
 > [امکانات](https://github.com/pejmankheyri/SMSIR-PHP#%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA)
@@ -55,6 +57,6 @@
 
 ## لایسنس
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpejmankheyri%2FSMSIR-PHP.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpejmankheyri%2FSMSIR-PHP?ref=badge_large)
+MIT
 
 </div>
