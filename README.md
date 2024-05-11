@@ -11,51 +11,50 @@
 </p>
 <div dir="rtl">
 
-# ارسال پیامک با استفاده از کلاس های PHP برای تمامی حالت های ممکن پنل sms.ir
+# Sending SMS using PHP classes for all possible modes of the sms.ir panel
 
-نمونه کد های php برای استفاده از تمامی قابلیت های پنل ارسال پیامک sms.ir
+Examples of php codes to use all features of sms.ir SMS sending panel
 
-نسخه 1.0.0
+Version 1.0.0
 
 
-> [امکانات](https://github.com/pejmankheyri/SMSIR-PHP#%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA)
+> [Features](https://github.com/pejmankheyri/SMSIR-PHP#%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA)
 > 
-> [کمک به توسعه](https://github.com/pejmankheyri/SMSIR-PHP#%DA%A9%D9%85%DA%A9-%D8%A8%D9%87-%D8%AA%D9%88%D8%B3%D8%B9%D9%87)
+> [Development Assistance](https://github.com/pejmankheyri/SMSIR-PHP#%DA%A9%D9%85%DA%A9-%D8%A8%D9%87-%D8%AA%D9%88%D8%B3%D8%B9%D9%87)
 > 
-> [لایسنس](https://github.com/pejmankheyri/SMSIR-PHP#%D9%84%D8%A7%DB%8C%D8%B3%D9%86%D8%B3)
+> [License](https://github.com/pejmankheyri/SMSIR-PHP#%D9%84%D8%A7%DB%8C%D8%B3%D9%86%D8%B3)
 
-## امکانات
+## Features
 
-* افزودن مخاطبان به باشگاه مشتریان
-* افزودن مخاطب و بلافاصله ارسال پیامک به مخاطب افزوده شده باشگاه مشتریان
-* ارسال پیامک به مخاطبین موجود در باشگاه مشتریان
-* ارسال پیامک به مخاطبین گروه های خاص
-* ویرایش مخاطب موجود در باشگاه مشتریان
-* دریافت میزان موجودی حساب
-* دریافت گروه های موجود در باشگاه مشتریان
-* دریافت مخاطبین گروه خاصی از باشگاه مشتریان به تفکیک صفحه
-* دریافت مخاطبین باشگاه مشتریان به تفکیک صفحه
-* دریافت پیامک های ارسال شده در باشگاه مشتریان با استفاده از آخرین شناسه
-* دریافت پیامک های ارسال شده در باشگاه مشتریان با استفاده از شماره صفحه
-* دریافت شماره های ارسال پیامک موجود کاربر
-* دریافت توکن برای ارسال درخواست
-* نمایش پیامک های دریافتی با batchkey و همچنین شماره صفحه
-* نمایش پیامک های دریافتی بین دو تاریخ شمسی با قابلیت مدیریت صفحات
-* نمایش پیامک های دریافتی توسط آخرین شناسه
-* ارسال پیامک
-* دریافت پیامک های ارسال شده توسط تاریخ
-* دریافت پیامک های ارسال شده با شناسه
-* ارسال پیامک سریع با تعیین قالب ست شده در پنل و پارامتر های مورد نظر
-* ارسال پیامک های فعالسازی با تعیین کد و شماره موبایل
+* Add audience to customer club
+* Add a contact and immediately send an SMS to the added contact of the customer club
+* Sending SMS to the contacts in the customer club
+* Send SMS to the contacts of special groups
+* Editing contacts in the customer club
+* Receive account balance
+* Get the groups available in the customer club
+* Receive the contacts of a specific group of customers club by page
+* Receive customer club contacts by page
+* Receive text messages sent in the customer club using the latest ID
+* Receive text messages sent in the customer club using the page number
+* Receive the user's existing SMS sending numbers
+* Receive token for sending request
+* Display received SMS with batchkey as well as page number
+* Display SMS messages received between two solar dates with the ability to manage pages
+* Display SMS received by the last ID
+* Send SMS
+* Receive text messages sent by date
+* Receive SMS sent with ID
+* Send quick SMS by specifying the format set in the panel and desired parameters
+* Sending activation SMS by specifying the code and mobile number
 
 
-## کمک به توسعه
+## Development Assistance
 
-از Pull request ها استقبال می کنیم.
+We welcome pull requests.
 
-برای تغییرات عمده ، لطفاً ابتدا یک issue را باز کنید تا در مورد آنچه می خواهید تغییر دهیم و بحث کنیم.
-
-## لایسنس
+For major changes, please open an issue first so we can discuss what you want to change.
+## License
 
 MIT
 
